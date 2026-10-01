@@ -222,3 +222,4 @@ DIVIDE(
     [Total Sales],
     0
 )
+ ## snapshot(https://github.com/Krishan-3003/Power-BI--Adventure-workshop/blob/main/adventure%20dashboard.png)
